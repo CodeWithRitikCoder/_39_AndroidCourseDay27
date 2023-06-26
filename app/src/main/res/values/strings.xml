@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Project 27 of Android Dev_Navigation Drawer</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="study_app_development_with_ritikcoder">Study App Development with RitikCoder</string>
+    <string name="education_application">Education Application</string>
+    <string name="category">Category</string>
+    <string name="programming">Programming</string>
+    <string name="video_editing">Video Editing</string>
+    <string name="cooking">Cooking</string>
+    <string name="public_speaking">Public Speaking</string>
+    <string name="gaming">Gaming</string>
+    <string name="writing">Writing</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="video_editing1">Video Editing</string>
+    <string name="programming1">Programming</string>
+    <string name="writing1">Writing</string>
+    <string name="gaming1">Gaming</string>
+    <string name="public_speaking1">Public Speaking</string>
+    <string name="cooking1">Cooking</string>
+    <string name="profile">Profile</string>
+    <string name="exit">Exit</string>
+    <string name="study_further">Study Further</string>
+</resources>

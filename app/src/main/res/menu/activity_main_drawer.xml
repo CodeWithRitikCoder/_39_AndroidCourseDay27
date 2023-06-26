@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_person_24"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_programming"
+            android:icon="@drawable/baseline_code_24"
+            android:title="@string/programming1" />
+        <item
+            android:id="@+id/nav_video_editing"
+            android:icon="@drawable/baseline_video_library_24"
+            android:title="@string/video_editing1" />
+        <item
+            android:id="@+id/nav_Cooking"
+            android:icon="@drawable/baseline_cookie_24"
+            android:title="@string/cooking1" />
+        <item
+            android:id="@+id/nav_public_speaking"
+            android:icon="@drawable/baseline_spatial_audio_off_24"
+            android:title="@string/public_speaking1" />
+        <item
+            android:id="@+id/nav_gaming"
+            android:icon="@drawable/baseline_videogame_asset_24"
+            android:title="@string/gaming1" />
+        <item
+            android:id="@+id/nav_writing"
+            android:icon="@drawable/baseline_menu_book_24"
+            android:title="@string/writing1" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/baseline_exit_to_app_24"
+            android:title="@string/exit" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/baseline_logout_24"
+            android:title="@string/logout" />
+    </group>
+</menu>
